@@ -242,7 +242,7 @@ A column is an attribute
 A row is one complete record. 
 
 
-** Business uses**
+**Business uses**
 
 One row represent one customer.
 
@@ -261,13 +261,11 @@ Example:
 
 No duplicates.
 
-No **NULL** values. 
-
+No NULL values. 
 
 **Business example**
 
 CustomerID ensures every customer is uniquely identifiable.
-
 
 ## Topic 5 - SQL Server data types
 
