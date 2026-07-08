@@ -68,7 +68,7 @@ After today you should be able to:
 
 ## Topic 1 - what is SQL?
 
-** Definition**
+**Definition**
 
 SQL stands for Structured Query Language.
 
