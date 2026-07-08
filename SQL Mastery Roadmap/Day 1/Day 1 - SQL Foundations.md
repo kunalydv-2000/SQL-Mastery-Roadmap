@@ -1,7 +1,5 @@
 # Day 1 - SQL Foundations, SQL Server Architecture & Writing Your First Professional Queries
 ---
-
-
 # 1. Learning Objectives
 
 ## What you will Learn Today
