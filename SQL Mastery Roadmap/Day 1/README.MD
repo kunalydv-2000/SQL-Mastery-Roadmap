@@ -1,6 +1,6 @@
-Day 1: Database Fundamentals & Basic Data Manipulation
+# Day 1: Database Fundamentals & Basic Data Manipulation
 
-«Part of the 30-Day SQL Mastery Roadmap for Data Analytics using Microsoft SQL Server (SSMS).»
+> Part of the 30-Day SQL Mastery Roadmap for Data Analytics using Microsoft SQL Server (SSMS).
 
 Overview
 
