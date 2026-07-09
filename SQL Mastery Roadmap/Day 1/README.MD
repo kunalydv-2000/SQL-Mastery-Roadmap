@@ -2,13 +2,13 @@
 
 > Part of the 30-Day SQL Mastery Roadmap for Data Analytics using Microsoft SQL Server (SSMS).
 
-Overview
+## Overview
 
 This project covers the fundamental concepts of relational databases and SQL Server. It focuses on creating databases and tables, inserting data, and retrieving information using basic SQL queries. These concepts form the foundation for writing analytical SQL queries and solving real-world business problems.
 
 ---
 
-Learning Objectives
+## Learning Objectives
 
 By completing this project, you will be able to:
 
@@ -23,7 +23,7 @@ By completing this project, you will be able to:
 
 ---
 
-Technologies Used
+## Technologies Used
 
 - Microsoft SQL Server
 - SQL Server Management Studio (SSMS)
@@ -31,9 +31,9 @@ Technologies Used
 
 ---
 
-SQL Concepts Covered
+## SQL Concepts Covered
 
-Database Fundamentals
+**Database Fundamentals**
 
 - Database
 - Schema
@@ -41,7 +41,7 @@ Database Fundamentals
 - RDBMS
 - SQL Server Architecture
 
-Data Types
+**Data Types**
 
 - INT
 - BIGINT
@@ -53,17 +53,17 @@ Data Types
 - BIT
 - UNIQUEIDENTIFIER
 
-Data Definition Language (DDL)
+**Data Definition Language (DDL)**
 
 - CREATE DATABASE
 - USE
 - CREATE TABLE
 
-Data Manipulation Language (DML)
+**Data Manipulation Language (DML)**
 
 - INSERT INTO
 
-Data Retrieval
+**Data Retrieval**
 
 - SELECT
 - WHERE
@@ -74,10 +74,10 @@ Data Retrieval
 
 ---
 
-Project Structure
+**Project Structure**
 
+```bash
 Day-01-Database-Fundamentals/
-
 │
 ├── README.md
 ├── create_database.sql
@@ -91,12 +91,13 @@ Day-01-Database-Fundamentals/
     ├── table_creation.png
     ├── insert_results.png
     └── query_output.png
+```
 
 ---
 
-Database Schema
+## Database Schema
 
-Customers
+**Customers**
 
 Column| Data Type
 CustomerID| INT
@@ -106,7 +107,7 @@ Email| VARCHAR(100)
 City| VARCHAR(50)
 JoinDate| DATE
 
-Orders
+**Orders**
 
 Column| Data Type
 OrderID| INT
@@ -116,7 +117,7 @@ TotalAmount| DECIMAL(10,2)
 
 ---
 
-Skills Demonstrated
+**Skills Demonstrated**
 
 - Database creation
 - Table design
@@ -132,15 +133,15 @@ Skills Demonstrated
 
 ---
 
-Business Scenario
+**Business Scenario**
 
 A retail company needs to manage customer and order information efficiently. This project demonstrates how SQL Server stores, organizes, and retrieves business data that can later be used for reporting, dashboards, and business analytics.
 
 ---
 
-Practice Exercises
+## Practice Exercises
 
-Completed exercises include:
+**Completed exercises include:**
 
 - Retrieve all customer records
 - Filter customers by city
@@ -152,9 +153,9 @@ Completed exercises include:
 
 ---
 
-Interview Preparation
+## Interview Preparation
 
-Topics covered:
+**Topics covered:**
 
 - Difference between Database and Table
 - SQL Server Data Types
@@ -170,7 +171,7 @@ Topics covered:
 
 ---
 
-Key Takeaways
+**Key Takeaways**
 
 - Built a relational database from scratch.
 - Designed tables using appropriate data types and constraints.
@@ -180,6 +181,6 @@ Key Takeaways
 
 ---
 
-Next Step
+**Next Step**
 
 Day 2: Filtering, Logical Operators, Comparison Operators, and CASE Statements.
